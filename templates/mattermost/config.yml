@@ -1,0 +1,8 @@
+name: Mattermost Production
+description: |
+  Official Mattermost Production Image
+version: 0
+category: Chat
+maintainer: Florian
+license: Beer
+projectURL: www.mattermost.com
